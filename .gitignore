@@ -1,6 +1,60 @@
-/.metadata
+
+/gps.py
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
 /can_receive.py
 /f103_App_TestBlink.7z
 /f103_can_bootloader.7z
 /f103_can_Test
 /gps.py
+# ======================
+# Build & Output
+# ======================
+/build/
+/Debug/
+/Release/
+/out/
+/dist/
+/bin/
+/obj/
+*.o
+*.elf
+*.map
+*.lst
+*.hex
+*.bin
+
+# ======================
+# Logs & Temp
+# ======================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ======================
+# IDE / Editor Files
+# ======================
+# STM32CubeIDE
+*.launch
+.settings/
+.metadata/
+*.cproject
+*.project
+
+# VS Code
+.vscode/
+.history/
+
+# CLion / JetBrains
+.idea/
+
+# ======================
+# Local Config
+# ======================
+*.local
+*.env
+*.config
