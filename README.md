@@ -144,22 +144,6 @@ CANBUS_Bootloader_Robotell/
 └─ README.md
 ```
 
----
-
-## Roadmap / Ideas
-
-* Optional: dual‑bank / A/B image scheme
-* Optional: progress reporting over CAN
-* Optional: authentication/signature before accepting image
-
----
-
-## License
-
-Choose an OSS license (e.g., MIT/BSD‑3‑Clause/Apache‑2.0) and add it as `LICENSE` in the root.
-
----
-
 
 ## Acknowledgments
 
@@ -168,4 +152,3 @@ Choose an OSS license (e.g., MIT/BSD‑3‑Clause/Apache‑2.0) and add it as `L
 
 ---
 
-**Need help tailoring to your exact board (pins/baud/IDs)?** Provide your specifics and update the constants in BL. Ready to extend with your use‑case.
